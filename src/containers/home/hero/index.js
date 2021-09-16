@@ -105,7 +105,7 @@ const Hero = () => {
                                     <Button
                                         path="/donate"
                                         variant="outlined"
-                                        sx={{ ml: "10px" }}
+                                        sx={{ mr: "10px" }}
                                     >
                                         Donate Now{" "}
                                         <i className="flaticon-left-arrow"></i>

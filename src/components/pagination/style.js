@@ -4,7 +4,7 @@ export const NavItem = styled.li`
     display: inline-block;
     height: 50px;
     line-height: 48px;
-    margin-right: 10px;
+    margin-left: 10px;
     padding: 2px;
     width: 50px;
     &:hover {

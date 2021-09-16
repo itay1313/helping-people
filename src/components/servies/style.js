@@ -32,7 +32,7 @@ export const IconBoxTop = styled.div`
     }
 `;
 export const IconBox = styled.div`
-    margin-right: 10px;
+    margin-left: 10px;
     min-height: 78px;
     min-width: 50px;
     position: relative;
@@ -43,7 +43,7 @@ export const IconBox = styled.div`
     content: "";
     height: 83px;
     width: 83px;
-    left: -27px;
+    right: -27px;
     position: absolute;
     top: -15px;
     
@@ -51,7 +51,7 @@ export const IconBox = styled.div`
        
     }
     ${device.medium}{
-        margin-right: 11px;
+        margin-left: 11px;
         min-height: 89px;
         min-width: 87px;
 

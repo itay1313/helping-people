@@ -9,7 +9,7 @@ export const NavList = styled.li`
     display: inline-block;
     font-size: 13px;
     margin-bottom: 10px;
-    margin-right: 10px;
+    margin-left: 10px;
     line-height: 1.4;
     a {
         background-color: #fff;

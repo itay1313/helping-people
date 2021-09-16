@@ -55,7 +55,7 @@ export const MetaBox = styled.div`
             display: inline-block;
             height: 28px;
             line-height: 28px;
-            margin-right: 10px;
+            margin-left: 10px;
             min-width: 28px;
             text-align: center;
             width: 28px;
