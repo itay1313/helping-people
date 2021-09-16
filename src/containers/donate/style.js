@@ -1,7 +1,7 @@
 import styled, { themeGet, device } from "@theme/utils";
 
 export const SectionArea = styled.section`
-padding: 60px 15px 267px;
+    padding: 60px 15px 267px;
     ${device.medium} {
         padding: 38px 0 292px;
     }

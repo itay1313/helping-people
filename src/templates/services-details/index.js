@@ -48,7 +48,8 @@ const ServicesPosts = ({ data, location, pageContext }) => {
                                     </ServicesTitle>
                                     <p>{servicesPostData.parText}</p>
                                     <p>
-                                        {servicesPostData && servicesPostData.destails1}
+                                        {servicesPostData &&
+                                            servicesPostData.destails1}
                                     </p>
                                     <Row>
                                         <Col sm={6}>
@@ -63,7 +64,10 @@ const ServicesPosts = ({ data, location, pageContext }) => {
                                             </DocumentItem>
                                         </Col>
                                         <Col sm={6}>
-                                            <DocumentItem className="bgcolor-theme2"  href="#">
+                                            <DocumentItem
+                                                className="bgcolor-theme2"
+                                                href="#"
+                                            >
                                                 <DocumentItemTitle href="#">
                                                     Documents.pdf
                                                 </DocumentItemTitle>
@@ -74,12 +78,14 @@ const ServicesPosts = ({ data, location, pageContext }) => {
                                             </DocumentItem>
                                         </Col>
                                     </Row>
-                                    
+
                                     <p>
-                                        {servicesPostData && servicesPostData.destails2}
+                                        {servicesPostData &&
+                                            servicesPostData.destails2}
                                     </p>
                                     <p>
-                                        {servicesPostData && servicesPostData.destails3}
+                                        {servicesPostData &&
+                                            servicesPostData.destails3}
                                     </p>
                                 </ServicesDetails>
                             </ServicesDetailsContent>

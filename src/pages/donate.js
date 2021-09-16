@@ -1,3 +1,4 @@
+import React from "react";
 import PropTypes from "prop-types";
 import Layout from "@layout";
 import SEO from "@components/seo";
@@ -13,7 +14,7 @@ const DonatePages = ({ location, pageContext }) => {
                 location={location}
                 title="Donate"
             />
-            <DonateArea/>
+            <DonateArea />
         </Layout>
     );
 };
