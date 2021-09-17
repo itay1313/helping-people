@@ -32,7 +32,7 @@ export const SectionTitle = styled.form`
     margin-bottom: 54px;
 `;
 export const Subtitle = styled.h5`
-    color: #fc6539;
+    color: #aa00ff;
     display: inline-block;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
@@ -42,7 +42,7 @@ export const Subtitle = styled.h5`
     padding-left: 64px;
     position: relative;
     &:after {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         content: "";
         height: 3px;
         left: 0;

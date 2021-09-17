@@ -8,7 +8,7 @@ export const IconBoxitem = styled.div`
         background-color: #001d23;
     }
     &.item-three {
-        background-color: #fea444;
+        background-color: #e254ff;
     }
     ${device.medium} {
         padding: 45px 25px;
@@ -25,10 +25,10 @@ export const IconBoxTop = styled.div`
     display: flex;
     align-items: center;
     margin-bottom: 5px;
-    padding-left: 20px;
+    padding-right: 20px;
     ${device.medium} {
         margin-bottom: 33px;
-        padding-left: 22px;
+        padding-right: 22px;
     }
 `;
 export const IconBox = styled.div`

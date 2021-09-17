@@ -30,7 +30,7 @@ export const ServicesTitle = styled.h4`
 
 export const DocumentItem = styled.a`
     align-items: center;
-    background-color: #fc6539;
+    background-color: #aa00ff;
     display: flex;
     height: 75px;
     justify-content: space-between;
@@ -39,7 +39,7 @@ export const DocumentItem = styled.a`
     padding: 15px 30px;
     width: 100%;
     &.bgcolor-theme2 {
-        background-color: #fea444 !important;
+        background-color: #e254ff !important;
     }
 `;
 export const DocumentItemTitle = styled.h6`

@@ -1,3 +1,4 @@
+import React from "react";
 import { Global, css } from "@theme/utils";
 import montserratLatin300Eot from "../fonts/montserrat-v15-latin-300.eot";
 import montserratLatin300Woff2 from "../fonts/montserrat-v15-latin-300.woff2";

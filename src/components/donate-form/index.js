@@ -29,7 +29,7 @@ const DonateForm = () => {
                     <Button
                         path="#!"
                         variant="outlined"
-                        sx={{ ml: "10px", color: "#fff" }}
+                        sx={{ mr: "10px", color: "#fff" }}
                     >
                         Join Events <i className="flaticon-left-arrow"></i>
                     </Button>

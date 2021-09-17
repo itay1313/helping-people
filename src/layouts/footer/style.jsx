@@ -75,8 +75,8 @@ export const TaisedAmount = styled.div`
         font-size: 60px;
     }
     line-height: 1;
-    background: #fea444;
-    background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+    background: #e254ff;
+    background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 `;
@@ -89,7 +89,7 @@ export const WidgetTitle = styled.h4`
     margin-bottom: 34px;
     margin-top: 17px;
     &:before {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         content: "";
         height: 4px;
         left: 0;
@@ -125,8 +125,8 @@ export const GalleryItem = styled.div`
         left: 0;
         top: 0;
         width: 100%;
-        background: #fea444;
-        background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+        background: #e254ff;
+        background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
         transition: 0.3s;
         -webkit-transition: 0.3s;
         -moz-transition: 0.3s;

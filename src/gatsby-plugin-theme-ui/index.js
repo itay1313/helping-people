@@ -1,6 +1,6 @@
 const theme = {
     colors: {
-        primary: "#fc6539",
+        primary: "#aa00ff",
         text: "#333",
         heading: "#414141",
         border: "#E0E0E0",
@@ -24,7 +24,7 @@ const theme = {
         alabaster: "#fafafa",
         mystic: "#e1e8ed",
         facebook: "#3b5998",
-        gradient: "linear-gradient(to right, #FEA444 0%, #FC6539 100%)",
+        gradient: "linear-gradient(to right, #e254ff 0%, #aa00ff 100%)",
     },
     fontSize: {
         body: "16px",
@@ -36,8 +36,8 @@ const theme = {
         h6: ["16px", "18px"],
     },
     fonts: {
-        body: `'Roboto', sans-serif`,
-        heading: `'Yeseva One'`,
+        body: `',Noto Serif Hebrew', serif`,
+        heading: `'Noto Serif Hebrew'`,
     },
     fontWeights: {
         body: 400,

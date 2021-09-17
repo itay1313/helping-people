@@ -22,9 +22,10 @@ const ContactForm = () => {
                         <Subtitle>Contact Now</Subtitle>
                         <Title>Get In Touch.</Title>
                         <SectionDec>
-                            Lorem Ipsum is simply dummy text of the printing and
-                            typesetting typesetting remaining essentially
-                            unchanged.
+                            לורם איפסום דולור סיט אמט, קונסקטורר אדיפיסינג אלית
+                            לורם איפסום דולור סיט אמט, נולום ארווס סאפיאן -
+                            פוסיליס קוויס, אקווזמן קוואזי במר מודוף. אודיפו
+                            בלאסטיק מונופץ קליר, בנפת נפקט למסון ב.
                         </SectionDec>
                     </SectionTitle>
                 </Col>

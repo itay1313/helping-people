@@ -156,7 +156,7 @@ const CausesDonateForm = () => {
                         color="border-normal"
                         sx={{
                             color: "#fff",
-                            ml: "5px",
+                            mr: "5px",
                             border: "2px solid #ddd",
                         }}
                     >

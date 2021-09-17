@@ -342,9 +342,9 @@ export const DonateCircleWrap = styled.div`
     padding: 25px;
     position: absolute;
     border-radius: 50%;
-    background: #fea444;
-    background-image: -ms-linear-gradient(-30deg, #fc6539 0%, #fea444 100%);
-    background: linear-gradient(-30deg, #fc6539 0%, #fea444 100%);
+    background: #e254ff;
+    background-image: -ms-linear-gradient(-30deg, #aa00ff 0%, #e254ff 100%);
+    background: linear-gradient(-30deg, #aa00ff 0%, #e254ff 100%);
     display: none;
     ${device.small} {
         display: block;

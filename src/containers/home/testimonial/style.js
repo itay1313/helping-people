@@ -55,9 +55,9 @@ export const TitleWrap = styled.div`
         position: absolute;
         top: 0;
         width: 100%;
-        background: #fea444;
-        background-image: -ms-linear-gradient(-30deg, #fc6539 0%, #fea444 100%);
-        background: linear-gradient(-30deg, #fc6539 0%, #fea444 100%);
+        background: #e254ff;
+        background-image: -ms-linear-gradient(-30deg, #aa00ff 0%, #e254ff 100%);
+        background: linear-gradient(-30deg, #aa00ff 0%, #e254ff 100%);
     }
     .section-title {
         margin-bottom: 33px;
@@ -99,7 +99,7 @@ export const NavigationWrap = styled.div`
         left: calc(65% + 1px);
         height: 100px;
         display: block;
-        padding-left: 22px;
+        padding-right: 22px;
     }
     ${device.medium} {
         right: calc(65% + 1px);

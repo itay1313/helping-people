@@ -24,7 +24,7 @@ export const PostThumb = styled.div`
 
 export const MetaDate = styled.div`
     align-items: center;
-    background-color: #fc6539;
+    background-color: #aa00ff;
     display: flex;
     height: 92px;
     justify-content: center;
@@ -91,7 +91,7 @@ export const MetaBox = styled.div`
     margin-bottom: 31px;
     .post-category {
         background-color: #e6e6e6;
-        color: #fc6539;
+        color: #aa00ff;
         font-size: 13px;
         font-weight: 700;
         letter-spacing: 1.2px;
@@ -106,7 +106,7 @@ export const MetaBox = styled.div`
         -o-transition: 0.3s;
     }
     .post-category {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         color: #fff;
         display: inline-block;
         font-size: 13px;

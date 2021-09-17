@@ -70,11 +70,11 @@ const CausesItem = ({
                     size="small"
                     variant="outlined"
                     color="light"
-                    sx={{ color: "#FEA444", fontWeight: "400" }}
+                    sx={{ color: "#e254ff", fontWeight: "400" }}
                 >
                     Donate Now{" "}
                     <i
-                        sx={{ ml: "8px", fontSize: "12px !important" }}
+                        sx={{ mr: "8px", fontSize: "12px !important" }}
                         className="flaticon-left-arrow"
                     ></i>
                 </Button>

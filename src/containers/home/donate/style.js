@@ -67,7 +67,7 @@ export const DonnersInfo = styled.div`
         color: #fff;
         margin-bottom: 32px;
         ${device.large} {
-            margin-right: -100px;
+            margin-left: -100px;
         }
     }
 `;
@@ -79,7 +79,7 @@ export const DonnerIem = styled.div`
     background-color: #13373e;
     border-radius: 50%;
     height: 62px;
-    margin-right: 16px;
+    margin-left: 16px;
     padding: 4px;
     width: 62px;
     ${device.xlarge} {
@@ -99,7 +99,7 @@ export const DonnerNumber = styled.div`
     font-size: 14px;
     font-family: ${themeGet("fonts.heading")};
     text-align: center;
-    background: #fea444;
+    background: #e254ff;
     background: ${themeGet("colors.gradient")};
     ${device.xlarge} {
         height: 76px;

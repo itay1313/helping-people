@@ -46,9 +46,9 @@ export const InfoItemTitle = styled.span`
     line-height: 1;
 `;
 export const Amount = styled.span`
-    color: #fc6539;
+    color: #aa00ff;
     font-size: 16px;
-    background: #fea444;
+    background: #e254ff;
     background: ${themeGet("colors.gradient")};
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -68,10 +68,10 @@ export const ProgressItem = styled.div`
             text-align: center;
             white-space: nowrap;
             border-radius: 0;
-            background: #fea444;
-            background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+            background: #e254ff;
+            background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
             &::after {
-                background-color: #fc6539;
+                background-color: #aa00ff;
                 border-radius: 50%;
                 content: "";
                 height: 12px;

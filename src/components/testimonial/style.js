@@ -19,14 +19,14 @@ export const ClientThumb = styled.div`
 
 export const QuoteIcon = styled.div`
     font-size: 280px;
-    font-family: "Yeseva One", cursive;
+    font-family: "Noto Serif Hebrew", serif;
     left: 98px;
     line-height: 212px;
     position: absolute;
     top: 24px;
     z-index: -1;
-    background: #fea444;
-    background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+    background: #e254ff;
+    background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 `;
@@ -55,7 +55,7 @@ export const ClientName = styled.h4`
     margin-bottom: 29px;
 `;
 export const ClientDesignation = styled.h6`
-    color: #fc6539;
+    color: #aa00ff;
     font-family: ${themeGet("fonts.heading")};
     font-size: 14px;
     font-weight: 700;

@@ -1,4 +1,4 @@
-import styled, { themeGet, device } from "@theme/utils";
+import styled, { device } from "@theme/utils";
 
 //  Donation Form Style
 
@@ -25,7 +25,7 @@ export const SectionTitle = styled.div`
     }
 `;
 export const Subtitle = styled.h4`
-    color: #fc6539;
+    color: #aa00ff;
     display: inline-block;
     font-family: "Roboto", sans-serif;
     font-size: 18px;
@@ -35,7 +35,7 @@ export const Subtitle = styled.h4`
     padding-left: 64px;
     position: relative;
     &:after {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         content: "";
         height: 3px;
         left: 0;
@@ -145,7 +145,7 @@ export const FormCheckBox = styled.div`
         position: relative;
         &:checked[type="radio"] {
             background-image: none;
-            background-color: #fc6539;
+            background-color: #aa00ff;
         }
     }
 

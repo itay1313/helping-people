@@ -34,7 +34,7 @@ export const MetaBox = styled.div`
     justify-content: start;
     margin-bottom: 30px;
     .post-category {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         color: #fff;
         display: inline-block;
         font-size: 13px;
@@ -131,8 +131,8 @@ export const PostSocialItems = styled.div`
         -o-transition: 0.1s;
         &:hover {
             color: #fff;
-            background: #fea444;
-            background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+            background: #e254ff;
+            background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
         }
     }
 `;
@@ -145,7 +145,7 @@ export const PostCategoryItems = styled.div`
         margin-right: 1px;
     }
     a {
-        color: #fc6539;
+        color: #aa00ff;
         margin-left: 3px;
         &::after {
             contain: ","

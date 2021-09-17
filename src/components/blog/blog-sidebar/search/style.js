@@ -34,7 +34,7 @@ export const FormInputItem = styled.div`
         top: calc(50% - 1px);
         transform: translateY(-50%);
         width: 50px;
-        background: #fea444;
+        background: #e254ff;
         background: ${themeGet("colors.gradient")};
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;

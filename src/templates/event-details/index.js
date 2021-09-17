@@ -159,7 +159,7 @@ const EventPosts = ({ data, location, pageContext }) => {
                                         path="tel://+88469963467"
                                         color="border-normal"
                                         sx={{
-                                            ml: "5px",
+                                            mr: "5px",
                                             border: "2px solid #ddd",
                                         }}
                                     >

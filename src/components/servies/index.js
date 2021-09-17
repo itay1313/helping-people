@@ -39,7 +39,7 @@ const ServiceItem = ({ title, parText, slug, image, itemClassName }) => {
                     sx={{ color: "#fff" }}
                 >
                     View Details{" "}
-                    <i sx={{ ml: "8px" }} className="flaticon-left-arrow"></i>
+                    <i sx={{ mr: "8px" }} className="flaticon-left-arrow"></i>
                 </Button>
             </ContentBox>
         </IconBoxitem>

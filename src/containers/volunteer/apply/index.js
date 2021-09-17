@@ -24,15 +24,15 @@ const JoinApplyArea = () => {
                                     <span>As A Volunteer.</span>
                                 </Title>
                                 <Text>
-                                    Lorem Ipsum is simply dummy text of the
-                                    printing and typesetting industry. Lorem
-                                    Ipsum has been the industry&apos;s standard
-                                    dummy text ever since 1500 an when an
-                                    unknown printer took a galley of type and
-                                    scrambled it to make a type specimen book.
-                                    It has survived not only five centuries but
-                                    electronic typesetting, remaining
-                                    essentially unchanged.
+                                    לורם איפסום דולור סיט אמט, קונסקטורר
+                                    אדיפיסינג אלית לורם איפסום דולור סיט אמט,
+                                    נולום ארווס סאפיאן - פוסיליס קוויס, אקווזמן
+                                    קוואזי במר מודוף. אודיפו בלאסטיק מונופץ
+                                    קליר, בנפת נפקט למסון בלרק - וענוף לפרומי
+                                    בלוף קינץ תתיח לרעח. לת צשחמי נולום ארווס
+                                    סאפיאן - פוסיליס קוויס, אקווזמן קוואזי במר
+                                    מודוף. אודיפו בלאסטיק מונופץ קליר, בנפת נפקט
+                                    למסון בלרק.
                                 </Text>
                             </SectionTitle>
 

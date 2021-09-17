@@ -67,9 +67,9 @@ export const InfoItemTitle = styled.span`
     line-height: 1;
 `;
 export const Amount = styled.span`
-    color: #fc6539;
+    color: #aa00ff;
     font-size: 16px;
-    background: #fea444;
+    background: #e254ff;
     background: ${themeGet("colors.gradient")};
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -84,7 +84,7 @@ export const SingleDetailsText = styled.p``;
 
 export const DocumentItem = styled.a`
     align-items: center;
-    background-color: #fc6539;
+    background-color: #aa00ff;
     display: flex;
     height: 75px;
     justify-content: space-between;
@@ -93,7 +93,7 @@ export const DocumentItem = styled.a`
     padding: 15px 30px;
     width: 100%;
     &.bgcolor-theme2 {
-        background-color: #fea444 !important;
+        background-color: #e254ff !important;
     }
 `;
 export const DocumentItemTitle = styled.h6`

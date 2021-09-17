@@ -72,7 +72,7 @@ export const Title = styled.h2`
     position: relative;
     z-index: 1;
     span {
-        background: #fea444;
+        background: #e254ff;
         background: ${themeGet("colors.gradient")};
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;

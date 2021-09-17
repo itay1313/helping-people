@@ -70,13 +70,13 @@ export const createStyles = (theme, color, size, shape, variant) => css`
         display: inline-block;
         padding: 2px !important;
         z-index: 1;
-        background: #fea444;
+        background: #e254ff;
         background: ${theme.colors.gradient};
         min-height: 40px;
         line-height: 40px;
         span {
             display: block;
-            background: #fea444;
+            background: #e254ff;
             background: ${theme.colors.gradient};
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;

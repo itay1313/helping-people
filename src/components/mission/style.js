@@ -1,7 +1,7 @@
 import styled, { themeGet, device } from "@theme/utils";
 
 export const ContentBoxItem = styled.div`
-    background-color: #fc6539;
+    background-color: #aa00ff;
     padding: 62px 25px 48px;
     position: relative;
     z-index: 1;

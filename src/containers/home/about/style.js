@@ -80,14 +80,14 @@ export const Thumb = styled.div``;
 
 export const AboutTextStyle = styled.p`
     color: #464444;
-    font-family: "Yeseva One", cursive;
+    font-family: "Noto Serif Hebrew", serif;
     font-size: 22px;
     line-height: 1.364;
     margin-bottom: 26px;
     margin-right: -10px;
     position: relative;
     &:before {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         content: "";
         height: 75px;
         left: -29px;
@@ -119,13 +119,13 @@ export const ListLi = styled.li`
     display: flex;
     margin-bottom: 10px;
     .icon-img {
-        margin-right: 20px;
+        margin-left: 20px;
         max-width: none;
         position: relative;
         top: 6px;
     }
     &.line-center {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         height: 43px;
         position: relative;
         top: -2px;

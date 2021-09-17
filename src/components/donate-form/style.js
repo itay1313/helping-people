@@ -8,7 +8,7 @@ export const DonateFormArea = styled.div`
         border-radius: 50%;
         content: "";
         height: 724px;
-        left: -512px;
+        right: -512px;
         position: absolute;
         top: -236px;
         width: 624px;
@@ -51,7 +51,7 @@ export const DonateAmount = styled.div`
         min-width: 100%;
         margin-right: 0;
         &:hover {
-            border: 2px solid #fc6539;
+            border: 2px solid #aa00ff;
             cursor: pointer;
         }
         ${device.small} {

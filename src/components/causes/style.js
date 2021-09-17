@@ -63,9 +63,9 @@ export const InfoItemTitle = styled.span`
     line-height: 1;
 `;
 export const Amount = styled.span`
-    color: #fc6539;
+    color: #aa00ff;
     font-size: 16px;
-    background: #fea444;
+    background: #e254ff;
     background: ${themeGet("colors.gradient")};
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

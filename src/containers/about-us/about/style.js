@@ -59,14 +59,14 @@ export const Thumb = styled.div``;
 
 export const AboutTextStyle = styled.p`
     color: #464444;
-    font-family: "Yeseva One", cursive;
+    font-family: "Noto Serif Hebrew", serif;
     font-size: 22px;
     line-height: 1.364;
     margin-bottom: 26px;
     margin-right: -10px;
     position: relative;
     &:before {
-        background-color: #fc6539;
+        background-color: #aa00ff;
         content: "";
         height: 75px;
         left: -29px;
@@ -89,7 +89,7 @@ export const ContentBoxWrp = styled.div`
 `;
 
 export const ContentBoxItem = styled.div`
-    background-color: #fc6539;
+    background-color: #aa00ff;
     padding: 62px 25px 48px;
     position: relative;
     z-index: 1;

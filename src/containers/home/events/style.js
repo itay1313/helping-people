@@ -91,8 +91,8 @@ export const Thumb = styled.div`
             text-align: center;
             width: 100px;
             z-index: 1;
-            background: #fea444;
-            background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+            background: #e254ff;
+            background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
         }
         .wave-btn {
             cursor: pointer;
@@ -107,17 +107,17 @@ export const Thumb = styled.div`
             width: 200px;
 
             &:nth-of-type(1) {
-                background: #fc6539;
+                background: #aa00ff;
                 animation: wave-button 2s infinite 0.1s linear backwards;
             }
             &:nth-of-type(2) {
-                background: #fea444;
+                background: #e254ff;
                 animation: wave-button 3s infinite 0.5s linear backwards;
             }
             &:nth-of-type(3) {
                 animation: wave-button 4s infinite 1s linear backwards;
-                background: #fea444;
-                background: linear-gradient(to right, #fea444 0%, #fc6539 100%);
+                background: #e254ff;
+                background: linear-gradient(to right, #e254ff 0%, #aa00ff 100%);
             }
         }
 

@@ -1,4 +1,4 @@
-import styled, { themeGet, device } from "@theme/utils";
+import styled, { device } from "@theme/utils";
 
 export const Thumb = styled.div`
     margin-bottom: 30px;
@@ -18,7 +18,7 @@ export const Thumb = styled.div`
         width: 100%;
         background-image: linear-gradient(
             360deg,
-            rgba(246, 103, 57, 0.67843) 0%,
+            rgb(179 20 255 / 48%) 0%,
             rgba(0, 0, 0, 0) 35%
         );
         transition: 0.2s;

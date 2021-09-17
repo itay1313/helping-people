@@ -11,7 +11,7 @@ export const VolunteerFormArea = styled.div`
     }
     .section-title {
         .subtitle {
-            color: #fc6539;
+            color: #aa00ff;
             display: inline-block;
             font-family: "Roboto", sans-serif;
             font-size: 18px;
@@ -63,7 +63,7 @@ export const SectionTitle = styled.div`
 `;
 
 export const SubTitle = styled.h5`
-    color: #fc6539;
+    color: #aa00ff;
     display: inline-block;
     font-family: "Roboto", sans-serif;
     font-size: 18px;

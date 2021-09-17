@@ -4,7 +4,7 @@ import HeartIcon from "@assets/images/svg/heart.svg";
 import { Col, Container, Row } from "react-bootstrap";
 import Logo from "@components/logo";
 import { graphql, useStaticQuery, Link } from "gatsby";
-import { StaticImage, GatsbyImage, getImage } from "gatsby-plugin-image";
+import { GatsbyImage, getImage } from "gatsby-plugin-image";
 import {
     FooterWrap,
     FooterMain,
@@ -186,14 +186,7 @@ const Footer = () => {
                     <Col sx={{ textAlign: "center" }}>
                         <CopyrightText>
                             &copy; {new Date().getFullYear()} Givest. Made with{" "}
-                            <HeartIcon /> by{" "}
-                            <a
-                                href="https://hasthemes.com/"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                            >
-                                HasThemes
-                            </a>
+                            <HeartIcon /> by Itayko
                         </CopyrightText>
                     </Col>
                 </Row>

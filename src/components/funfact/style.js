@@ -14,7 +14,7 @@ export const IconBox = styled.div`
         width: 45px;
     }
     .shape-img {
-        left: -38px;
+        right: -38px;
         width: 85px;
         position: absolute !important;
         top: -48px;
@@ -39,7 +39,7 @@ export const IconBox = styled.div`
             min-width: 66px;
         }
         .shape-img {
-            left: -38px;
+            right: -38px;
             max-width: none;
             position: absolute;
             top: -48px;
